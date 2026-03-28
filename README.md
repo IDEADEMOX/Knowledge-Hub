@@ -26,3 +26,10 @@ npm install
 # 启动项目
 npm run dev
 ```
+
+# 配套服务
+
+- 鉴权服务：[Knowledge-Hub-Auth](https://github.com/IDEADEMOX/Knowledge-Hub-Auth)
+- 调度服务：[Knowledge-Hub-Controller](https://github.com/IDEADEMOX/Knowledge-Hub-Controller)
+- 能力服务：[Knowledge-Hub-Services](https://github.com/IDEADEMOX/Knowledge-Hub-Services)
+- 扩展服务：[Knowledge-Hub-Rerank](https://github.com/IDEADEMOX/Knowledge-Hub-Rerank)
